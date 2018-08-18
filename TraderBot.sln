@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraderBot", "TraderBot\TraderBot.csproj", "{D4E2BFE7-0962-4F61-8747-ACCFB7530DB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraderBot.BusinessRule", "TraderBot\TraderBot.BusinessRule.csproj", "{D4E2BFE7-0962-4F61-8747-ACCFB7530DB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
