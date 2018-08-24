@@ -13,7 +13,12 @@ namespace TraderBot
     {
         static void Main(string[] args)
         {
-            
+            Menu menu = new Menu();
+
+            menu.ShowMainMenu();
+            Console.WriteLine("opcao main class = " + menu.GetOption());
+            Console.WriteLine("dataCollectionState main class = " + menu.GetOption());
+            Console.ReadKey();
         }
     }
 }
